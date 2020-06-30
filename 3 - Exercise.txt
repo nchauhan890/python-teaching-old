@@ -1,0 +1,28 @@
+For loops exercise
+
+Task:
+
+- Create a simple FizzBuzz program
+
+
+Requirements:
+
+- Must take in a user input to choose how many numbers to display
+- Print the numbers 1 to the limit chosen:
+  - Replace every multiple of 3 with 'Fizz'
+  - Replace every multiple of 5 with 'Buzz'
+  - Replace every multiple of 3 and 5 with 'FizzBuzz'
+
+
+Things to consider:
+
+- How will you take an input from the user?
+- How will you check if the number being printed is a certain multiple
+- How will you replace the text being printed
+
+Extensions:
+
+(1) Add input validation to check the user input. Hint: the program
+    should take an integer more than 1.
+(2) Add another multiple to check and replace - e.g. multiples of
+    7 should be replaced with 'Fuzz'

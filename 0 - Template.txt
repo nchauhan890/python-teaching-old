@@ -1,0 +1,90 @@
+--------------------------- Overview ---------------------------
+
+"""Overview of [add topic]"""
+
+from functions import demo, placeholders, getinput, Status, Demo
+
+# add placeholders here
+
+
+# add general information about topic
+
+
+
+# Syntax for [add topic]:
+
+# add syntax here
+
+
+
+# [topic] methods:
+# or
+# Other information:
+
+# add description
+# add method here
+
+
+demo('add demo name')
+# setup Demo() and Status() objects
+
+
+
+--------------------------- Exercise ---------------------------
+
+
+[add topic] exercise
+
+Task:
+
+- task
+
+
+Requirements:
+
+- requirement
+
+
+Things to consider:
+
+- question
+
+Extensions:
+
+(1) extension
+
+
+
+--------------------------- Solution ---------------------------
+
+
+"""Notes on [add exercise name]"""
+
+# Notes:
+
+# add recommendations and other notes if applicable
+
+
+
+# Approach:
+
+# add walkthrough description
+# add code here
+
+
+
+# Solutions:
+
+# My solution to the original task:
+
+# add code here
+
+
+# My solution to extension 1:
+
+# add code here
+
+
+# My solution taking all the extensions into mind:
+
+# add code here

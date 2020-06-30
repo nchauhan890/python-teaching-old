@@ -1,0 +1,33 @@
+While loops exercise
+
+Task:
+
+- Create a random number guesser
+
+Requirements:
+
+- Must take a user input
+- Must print whether their guess is correct or not
+
+Things to consider:
+
+- How will you generate random numbers?
+    - Hint: the Python 'random' module
+- How will you take a user input?
+- How will you check whether the input matches the random number?
+
+Extensions:
+
+(1) Add a feature that prints whether the user should guess
+    higher or lower
+(2) Add an option to display 'Play Again?' and accept a yes/no
+    or y/n answer
+(3) Add a feature that counts the number of guesses the user
+    has had and print this out when the user guesses the correct
+    number
+(4) Add a set number of attempts to automatically end the game
+    at (requires above extension)
+(5) Add an option before the game starts to choose the number
+    range to play in: e.g. 1-100, 1-100, etc...
+(6) Add input validation to make sure that a bad input won't
+    crash the program. Hint: use try/except blocks

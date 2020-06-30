@@ -1,0 +1,35 @@
+Each section will contain the following:
+
+    - Overview:
+      - General notes
+      - Explanation of usage:
+        - Syntax
+        - Methods
+      - Basic demonstration
+
+    - Small exercise:
+      - Task
+      - Requirements
+      - Things to consider when programming
+      - Extensions
+
+    - Exercise notes:
+      - General notes
+      - Possible approach
+      - Solutions:
+        - Solution to original task
+        - Solution to each extension
+        - Solution with all extensions considered
+
+Overview files should be python (.py) files which when
+run output information and code used in the demonstration.
+
+Exercise file should be a text file (.txt) with
+information about the task.
+
+Exercise notes should be python files (.py), however they
+are not intended to be run. They are this file type
+as the contain mainly code (some of which will raise errors
+as they are partial sections of the main program) and
+the notes are for guidance and headers to distinguish what
+each block of code represents.

@@ -1,0 +1,34 @@
+Lists exercise
+
+Task:
+
+- Create a basic shopping list interface
+
+Requirements:
+
+- Must take a user input
+- Must store items in a list
+- Must display a small menu system which allows
+  the user to do the following actions:
+    - Display all items currently in the list
+    - Add a new item to the list
+    - Remove an item in the list
+    - Exit
+
+Things to consider:
+
+- How will you take a user input?
+- How will you display a menu?
+- How will you control flow depending on the user's
+  input after the menu?
+
+Extensions:
+
+(1) Add a way to insert an item at any position in the list
+(2) Implement a way to check whether an item actually exists
+    before trying to remove it from the list to prevent
+    a ValueError from occuring. Hint: use the 'in' operator
+(3) Change the display feature so that it displays each item
+    on a newline. Hint: iterate over list with a 'for' loop
+(4) Display each item in the form 'index: item' on a new line
+    for each item. (Requires above extension)
